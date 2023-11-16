@@ -1,0 +1,70 @@
+/*commo start*/
+body{
+	font-family: 'PT Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: ash-#898989;
+}
+/*commo end*/
+/*header start*/
+header{
+	background-color: #fcdb00;
+	padding: 20px 0;
+}
+.c_nav{}
+.logo{}
+.manu{}
+.manu ul li a{
+	font-size: 22px;
+    font-weight: 700;
+    color: #010101;
+    padding: 0 30px!important;
+}
+.manu ul li:last-child a{
+	padding-right: 0 !important;
+}
+.manu ul li a:hover{
+	color: #ffffff;
+}
+.s_icon{
+	color: #010101;
+	font-size: 50px;
+}
+/*header end*/
+/*slider start*/
+.slider{
+	background-color: #fcdb00;
+	padding-bottom: 100px;
+}
+.s_text{}
+.s_text h1{
+	font-size: 32px;
+    font-weight: 700;
+    color: #010101;
+}
+.s_text h2{
+	margin: 20px 0;
+	font-size: 20px;
+    font-weight: 400;
+    color: #313841;
+}
+.s_text p{
+	margin-bottom: 35px;
+	color: #555555;
+}
+.s_icon{}
+.s_icon ul li{
+	margin-right: 30px !important;
+
+}
+.s_icon ul li i{
+	font-size: 42px;
+	color: #010101;
+}
+.s_icon ul li i:hover{
+/*	transform: scale(.8);*/
+ transform: rotate(200deg);
+ color: #ffffff;
+}
+
+/*slider end*/
